@@ -82,6 +82,8 @@ Feel free to get creative with how you style your interface. Here are some basic
 ![Screen-shot](https://i.imgur.com/d8lFshD.png)
 ![Screen-shot](https://i.imgur.com/Jw6hhcA.png)
 
+An Alternative UI:
+
 ![](http://i.giphy.com/maSr1dPOf7Qac.gif)
 
 #### Additional Resources
